@@ -48,6 +48,7 @@ Priority | As a ... | I want to ... | So that I can...
 `* *` | user | hide [private contact details](#private-contact-detail) by default | minimize chance of someone else seeing them by accident
 `* *` | admin | modify any content in the address book | moderate the content
 `* *` | user | view&count all person in the address book
+`* *` | user | rename a tag for everyone
 `*` | user with many persons in the address book | sort persons by name | locate a person easily
 
 
